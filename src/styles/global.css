@@ -48,7 +48,7 @@ h6 {
 }
 
 body {
-	background-image: url("/public/images/background-pattern-desktop.svg");
+	background-image: url("/images/background-pattern-desktop.svg");
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: 100%;
@@ -80,7 +80,7 @@ main {
 	gap: 2rem;
 	border-radius: 2rem;
 	padding: 40px 32px 32px 32px;
-	cursor: url("/public/images/icons8-curseur-main-30.png"), pointer;
+	cursor: url("/images/icons8-curseur-main-30.png"), pointer;
 }
 
 h2 {
@@ -99,7 +99,7 @@ h2 {
 	justify-content: space-between;
 	align-items: center;
 	gap: 1rem;
-	cursor: url("/public/images/icons8-curseur-main-30.png"), pointer;
+	cursor: url("/images/icons8-curseur-main-30.png"), pointer;
 }
 
 .sub-section:hover {
