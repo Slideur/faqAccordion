@@ -22,6 +22,7 @@ subSection1.addEventListener("click", () => {
 	if (getComputedStyle(p1).display != "none") {
 		p1.style.display = "none";
 		img1.style.display = "none";
+		imgplus1.style.display = "block";
 	} else {
 		p1.style.display = "block";
 		img1.style.display = "block";
@@ -33,6 +34,7 @@ subSection2.addEventListener("click", () => {
 	if (getComputedStyle(p2).display != "none") {
 		p2.style.display = "none";
 		img2.style.display = "none";
+		imgplus2.style.display = "block";
 	} else {
 		p2.style.display = "block";
 		img2.style.display = "block";
@@ -44,6 +46,7 @@ subSection3.addEventListener("click", () => {
 	if (getComputedStyle(p3).display != "none") {
 		p3.style.display = "none";
 		img3.style.display = "none";
+		imgplus3.style.display = "block";
 	} else {
 		p3.style.display = "block";
 		img3.style.display = "block";
@@ -55,6 +58,7 @@ subSection4.addEventListener("click", () => {
 	if (getComputedStyle(p4).display != "none") {
 		p4.style.display = "none";
 		img4.style.display = "none";
+		imgplus4.style.display = "block";
 	} else {
 		p4.style.display = "block";
 		img4.style.display = "block";
